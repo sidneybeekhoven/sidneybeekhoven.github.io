@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://sidneybeekhoven.github.io/sitemap.xml 
+Sitemap: http://sidney.beekhoven.nl/sitemap.xml 
